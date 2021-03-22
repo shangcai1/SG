@@ -18,9 +18,9 @@ link: https://pan.baidu.com/s/1_3Z7w9IrlqOU25QbVdhytQ  passward: aktv
 You can use the following command to test：
 > python test.py --stict PRETRAINED_WEIGHT --image_path IMG_PATH --mask_save_path SAVE_PATH
 
-I have trained the model and I got FM about 0.701 and MAE about 0.172 on DUT Dataset and got FM about 0.769 and MAE about 0.119 on CUHK Dataset. You can use the following model to output results directly.
+We have trained the model and We got FM about 0.701 and MAE about 0.172 on DUT Dataset and got FM about 0.769 and MAE about 0.119 on CUHK Dataset. You can use the following model to output results directly.
 
-Here is my parameters：link: https://pan.baidu.com/s/1XbRiUnXr6LlgFNbWUWjQ3g  passward: nm2l
+Here is our parameters：link: https://pan.baidu.com/s/1XbRiUnXr6LlgFNbWUWjQ3g  passward: nm2l
 
 Put "generator.pth" in "./checkpoints".
 
@@ -49,5 +49,6 @@ If you want to use FM and MAE to evaluate the results, you can use the following
 If you want to get the PR curve and FM curve in the article, use the following code:
 
 > python plt_pr.py
+> 
 > python plt_fm.py
 
