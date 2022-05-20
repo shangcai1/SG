@@ -12,7 +12,8 @@ Implementation of "Self-generated Defocus Blur Detection via Dual Adversarial Di
   - `CUHK`: Contains 100 testing images of CUHK Dataset and it's GT.
   - `DUT`: Contains 400 testing images of DUT Dataset and it's GT.
 
-link: https://pan.baidu.com/s/1_3Z7w9IrlqOU25QbVdhytQ  passward: aktv
+baidu link: https://pan.baidu.com/s/1_3Z7w9IrlqOU25QbVdhytQ  passward: aktv
+
 google link: https://drive.google.com/file/d/1DtWbMUppxa8eC0O3ZVBjLQO_i5GUG1pa/view?usp=sharing
 
 ### Test
@@ -22,7 +23,8 @@ You can use the following command to test：
 We have trained the model and We got FM about 0.701 and MAE about 0.172 on DUT Dataset and got FM about 0.769 and MAE about 0.119 on CUHK Dataset. You can use the following model to output results directly.
 
 Here is our parameters：
-link: https://pan.baidu.com/s/1XbRiUnXr6LlgFNbWUWjQ3g  passward: nm2l
+baidu link: https://pan.baidu.com/s/1XbRiUnXr6LlgFNbWUWjQ3g  passward: nm2l
+
 google link: https://drive.google.com/file/d/1Q6odk3yGexqFIt6Iu3WNFRoInWealy_2/view?usp=sharing
 
 Put "generator.pth" in "./checkpoints".
@@ -42,7 +44,8 @@ You can use the following command to train：
 
 Here is the pretrained weight of the Classifier.Put "VGG16model" in "./models" 
 
-link: https://pan.baidu.com/s/1ZrtEVoYQjUVUWgzJ68gwvQ  passward: 26jm
+baidu link: https://pan.baidu.com/s/1ZrtEVoYQjUVUWgzJ68gwvQ  passward: 26jm
+
 google link: https://drive.google.com/file/d/1K4OAo-WEKmizFt4edQzeqBp-eNgurZft/view?usp=sharing
 
 ### Eval
