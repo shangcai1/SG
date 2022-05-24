@@ -25,7 +25,7 @@ We have trained the model and We got FM about 0.701 and MAE about 0.172 on DUT D
 Here is our parameters：
 baidu link: https://pan.baidu.com/s/1XbRiUnXr6LlgFNbWUWjQ3g  passward: nm2l
 
-google link: https://drive.google.com/file/d/1K4OAo-WEKmizFt4edQzeqBp-eNgurZft/view?usp=sharing
+google link: https://drive.google.com/file/d/1Q6odk3yGexqFIt6Iu3WNFRoInWealy_2/view?usp=sharing
 
 Put "generator.pth" in "./checkpoints".
 
@@ -46,7 +46,7 @@ Here is the pretrained weight of the Classifier.Put "VGG16model" in "./models"
 
 baidu link: https://pan.baidu.com/s/1ZrtEVoYQjUVUWgzJ68gwvQ  passward: 26jm
 
-google link: https://drive.google.com/file/d/1Q6odk3yGexqFIt6Iu3WNFRoInWealy_2/view?usp=sharing
+google link: https://drive.google.com/file/d/1K4OAo-WEKmizFt4edQzeqBp-eNgurZft/view?usp=sharing
 
 ### Eval
 If you want to use FM and MAE to evaluate the results, you can use the following code：
