@@ -10,7 +10,7 @@ Implementation of "Self-generated Defocus Blur Detection via Dual Adversarial Di
     - `FB`: 500 natural full blurred images.
 - `test_data`: The data for testing.
   - `CUHK`: Contains 100 testing images of CUHK Dataset and it's GT.
-  - `DUT`: Contains 400 testing images of DUT Dataset and it's GT.
+  - `DUT`: Contains 500 testing images of DUT Dataset and it's GT.
 
 baidu link: https://pan.baidu.com/s/1_3Z7w9IrlqOU25QbVdhytQ  passward: aktv
 
