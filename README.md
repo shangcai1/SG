@@ -14,7 +14,7 @@ Implementation of "Self-generated Defocus Blur Detection via Dual Adversarial Di
 
 baidu link: https://pan.baidu.com/s/1_3Z7w9IrlqOU25QbVdhytQ  passward: aktv
 
-google link: https://drive.google.com/file/d/1DtWbMUppxa8eC0O3ZVBjLQO_i5GUG1pa/view?usp=sharing
+google link: https://drive.google.com/file/d/1Q6odk3yGexqFIt6Iu3WNFRoInWealy_2/view?usp=sharing
 
 ### Test
 You can use the following command to test：
